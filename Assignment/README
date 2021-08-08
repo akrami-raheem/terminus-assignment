@@ -1,0 +1,9 @@
+for UI::
+ng build
+Run ng serve for a dev server.
+Navigate to http://localhost:4200/. The app will automatically reload if you change any of the source files.
+
+
+For backend::
+mvn spring-boot:run
+http://localhost:8081
